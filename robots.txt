@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ijdzo8.saturadar88.online/sitemap.xml
